@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TabStripDemo</string>
+    <string name="action_settings">扫一扫</string>
+    <string name="section_format">Hello World from section: %0$d</string>
+    <string name="toolbar_title">hey,guy</string>
+
+    <string name="tab_bar_text_home">首页</string>
+    <string name="tab_bar_text_moments">圈子</string>
+    <string name="tab_bar_text_find">发现</string>
+    <string name="tab_bar_text_person">个人</string>
+</resources>
